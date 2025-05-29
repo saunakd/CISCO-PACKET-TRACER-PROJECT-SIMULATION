@@ -2,7 +2,7 @@
 
 ![Topology Preview](https://github.com/saunakd/CISCO-PACKET-TRACER-PROJECT-SIMULATION/blob/main/Screenshot%202025-05-29%20151916.png)
 
-A hands-on networking lab built with **Cisco Packet Tracer**, demonstrating core enterprise networking concepts aligned with Cisco's job requirements.
+A hands-on networking lab built with **Cisco Packet Tracer**, demonstrating core enterprise networking concepts.
 
 ## Project Overview
 
