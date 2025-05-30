@@ -6,7 +6,7 @@ A hands-on networking lab built with **Cisco Packet Tracer**, demonstrating core
 
 ## Project Overview
 
-This repository contains a Cisco Packet Tracer simulation (`topo.pkt`) of a small-to-medium scale enterprise network. It showcases:
+This repository contains a Cisco Packet Tracer simulation (`networking.pkt`) of a small-to-medium scale enterprise network. It showcases:
 
 * Network topology design across multiple departments
 * Router and switch configurations
@@ -20,7 +20,7 @@ This repository contains a Cisco Packet Tracer simulation (`topo.pkt`) of a smal
 ```
 cisco-packet-tracer-network-simulation/
 ├── README.md                  # Project documentation
-├── topo.pkt                   # Packet Tracer simulation file
+├── networking.pkt                   # Packet Tracer simulation file
 ├── configs/                   # Exported device configuration snapshots
 │   ├── router1-config.txt
 │   └── switch1-config.txt
@@ -36,7 +36,7 @@ cisco-packet-tracer-network-simulation/
    git clone https://github.com/saunakd/cisco-packet-tracer-network-simulation.git
    cd cisco-packet-tracer-network-simulation
    ```
-2. **Open `topo.pkt`** in **Cisco Packet Tracer** (version 7.x or later).
+2. **Open `networking.pkt`** in **Cisco Packet Tracer** (version 7.x or later).
 3. **Explore** the topology, view device CLI, and test connectivity using `ping` and `traceroute`.
 
 ## Configuration Snapshots
